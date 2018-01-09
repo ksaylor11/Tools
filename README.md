@@ -24,3 +24,20 @@ I wanted to set down a list of tools that I have used or continue to use frequen
 ## Networking Tools
 - wireshark [website](https://www.wireshark.org/)
 - nmap [website](https://nmap.org/)
+
+## DB Tools
+- MySQL Workbench [website](https://www.mysql.com/products/workbench/)
+- SQL Studio [website](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
+- Oracle SQL Developer [website](http://www.oracle.com/technetwork/developer-tools/sql-developer/overview/index.html)
+
+## GIT
+- SmartGit [website](http://www.syntevo.com/smartgit/)
+
+## LDAP
+- Softerra [website](http://www.ldapbrowser.com/info_softerra-ldap-browser.htm)
+
+## Site Crawler
+- Xenu Link Sleuth [website](http://home.snafu.de/tilman/xenulink.html#Download)
+
+## ZIP Files
+- 7Zip [website](http://www.7-zip.org/download.html)
