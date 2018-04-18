@@ -29,6 +29,7 @@ I wanted to set down a list of tools that I have used or continue to use frequen
 - MySQL Workbench [website](https://www.mysql.com/products/workbench/)
 - SQL Studio [website](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
 - Oracle SQL Developer [website](http://www.oracle.com/technetwork/developer-tools/sql-developer/overview/index.html)
+- SqliteBrowsr [website](https://github.com/sqlitebrowser/sqlitebrowser)
 
 ## GIT
 - SmartGit [website](http://www.syntevo.com/smartgit/)
